@@ -55,6 +55,39 @@
 
 }
 
+@media only screen and (max-width: 1100px) {
+    .circle1{
+        display: none;
+    }
+}
+@media only screen and (max-width: 1111px) {
+    .circle1{
+        display: none;
+    }
+}
+@media only screen and (max-width: 1110px) {
+    .circle1{
+        display: none;
+    }
+}
+@media only screen and (max-width: 1109px) {
+    .circle1{
+        display: none;
+    }
+}
+@media only screen and (max-width: 1103px) {
+    .circle1{
+        display: none;
+    }
+}
+@media only screen and (max-width: 1090px) {
+    .circle1{
+        display: none;
+    }
+
+}
+
+
 @media only screen and (max-width: 980px){
 
 
@@ -225,23 +258,107 @@
 
     #img {
         margin-top: 20px;
-        margin-left: 145px;
+        margin-left: 180px;
     }
     h1 {
-        font-size: 27px;
-        margin-right: 74px;
+        font-size: 29px;
+        margin-right: 118px;
         margin-top: 49px;
     }
     #p {
-        margin-left: 0;
-        font-size: 12px;
+        margin-left: -14px;
+        font-size: 11px;
         margin-top: 14px;
     }
     .start-btn {
-        margin-right: 156px;
+        margin-right: 200px;
     }
     .anar {
         left: 30px;
         top: 388px;
+    }
+}
+@media only screen and (max-width:489px) {
+
+    h1 {
+        font-size: 29px;
+        margin-right: 100px;
+        margin-top: 49px;
+    }
+}
+
+@media only screen and (max-width:460.91px) {
+    #img {
+        margin-top: 20px;
+        margin-left: 165px;
+    }
+    h1 {
+        font-size: 29px;
+        margin-right: 93px;
+        margin-top: 49px;
+    }
+}
+
+@media only screen and (max-width:458.18px) {
+    #img {
+        margin-top: 20px;
+        margin-left: 160px;
+    }
+
+
+    .anar {
+        left: 11px;
+        top: 388px;
+    }
+
+}
+
+@media only screen and (max-width:454px) {
+    #img {
+        margin-top: 29px;
+        margin-left: 200px;
+    }
+    .anar {
+        left: 43px;
+        top: 388px;
+    }
+}
+@media only screen and (max-width:454.55px) {
+
+    h1 {
+        font-size: 30px;
+        margin-right: 82px;
+        margin-top: 49px;
+    }
+
+    .start-btn {
+        margin-right: 178px;
+    }
+
+
+
+}
+
+@media only screen and (max-width:454px) {
+    #img {
+        margin-top: 29px;
+        margin-left: 160px;
+    }
+    h1 {
+        font-size: 29px;
+        margin-right: 89px;
+        margin-top: 49px;
+    }
+    #p {
+        margin-left: -14px;
+        font-size: 10px;
+        margin-top: 16px;
+    }
+    .start-btn {
+        margin-right: 170px;
+    }
+    .anar {
+        left: 30px;
+        top: 393px;
     }
 }

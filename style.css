@@ -15,6 +15,11 @@ body{
     background-image: -ms-linear-gradient(-45deg,#667eea 0%,#764ba2 100%);
 }
 
+
+.container1{
+
+}
+
 .header{
     background-image: -webkit-linear-gradient(-45deg,#667eea 0%,#764ba2 100%);
     background-image: -ms-linear-gradient(-45deg,#667eea 0%,#764ba2 100%);
@@ -23,8 +28,6 @@ body{
 }
 
 .tap-nav{
-
-
 
     justify-content: center;
 
@@ -79,7 +82,7 @@ ul.min-meno>li>a:hover{
 
 ul.min-meno>li>a>p{
 
-    margin-top: -6px;
+    margin-top: 21px;
     margin-right: 10px;
 
 }
@@ -171,3 +174,4 @@ h1 {
     height: 65px;
 
 }
+
